@@ -1,4 +1,4 @@
-ideology_corporatist = {
+﻿ideology_corporatist = {
     icon = "gfx/interface/icons/ideology_icons/corporatist.dds"
 
     lawgroup_health_system = {

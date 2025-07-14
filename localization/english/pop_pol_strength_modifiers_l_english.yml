@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  country_clerks_pol_str_mult:0 "[concept_political_strength] of $clerks$"
  country_clerks_pol_str_mult_desc:0 "An increase or decrease in the [concept_political_strength] of $clerks$"
  country_shopkeepers_pol_str_mult:0 "[concept_political_strength] of $shopkeepers$"

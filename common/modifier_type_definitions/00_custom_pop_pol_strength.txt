@@ -1,4 +1,4 @@
-# Custom pop political strength modifiers
+﻿# Custom pop political strength modifiers
 country_clerks_pol_str_mult={
     decimals=0
     color=neutral

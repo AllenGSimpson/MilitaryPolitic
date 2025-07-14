@@ -1,4 +1,4 @@
-NCountry = {
+﻿NCountry = {
         REINVESTMENT_EFFICIENCY_MAX = 1.0                             # Keep reinvestment constant
         REINVESTMENT_BASE_EFFICIENCY_THRESHOLD = 0                    # Disable GDP scaling
 }

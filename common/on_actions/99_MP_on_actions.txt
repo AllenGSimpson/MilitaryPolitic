@@ -1,4 +1,4 @@
-on_game_started_after_lobby = {
+﻿on_game_started_after_lobby = {
     effect = {
         every_country = {
             limit = { has_government_type = gov_chartered_company }
