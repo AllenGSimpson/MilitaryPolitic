@@ -1,0 +1,11 @@
+on_game_started_after_lobby = {
+    effect = {
+        every_country = {
+            limit = { has_government_type = gov_chartered_company }
+            activate_law = law_type:law_corporatocracy
+            activate_law = law_type:law_dividend_taxation
+            activate_law = law_type:law_corporate_state
+            activate_law = law_type:law_corporate_economy
+        }
+    }
+}
