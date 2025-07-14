@@ -1,0 +1,117 @@
+# Custom pop political strength modifiers
+country_clerks_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_shopkeepers_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_slaves_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_aristocrats_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_capitalists_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_academics_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_bureaucrats_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_clergymen_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_engineers_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_farmers_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_laborers_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_machinists_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
+
+country_peasants_pol_str_mult={
+    decimals=0
+    color=neutral
+    percent=yes
+    game_data={
+        ai_value=0
+    }
+}
