@@ -1,0 +1,3 @@
+l_english:
+  law_dividend_taxation:0 "Dividend Taxation"
+  law_dividend_taxation_desc:0 "A tax policy that only taxes dividends paid out to building owners, leaving other revenues untaxed."
